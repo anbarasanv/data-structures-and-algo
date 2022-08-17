@@ -1,5 +1,4 @@
 def twoNumberSum(array, targetSum):
-    # Write your code here.
     array = sorted(array)
     left = 0
     right = len(array)-1
