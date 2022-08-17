@@ -1,3 +1,4 @@
+
 def isValidSubsequence(array, sequence):
     # Write your code here.
     array_idx = 0

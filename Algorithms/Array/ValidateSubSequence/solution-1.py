@@ -1,3 +1,4 @@
+
 def isValidSubsequence(array, sequence):
     len_sequence = len(sequence)
     count = 0
